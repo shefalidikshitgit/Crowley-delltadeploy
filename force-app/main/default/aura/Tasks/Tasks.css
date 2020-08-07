@@ -1,0 +1,44 @@
+.THIS #blueFontColourSpan span {
+    color: #21A0DF;
+    font-weight: bold;
+}
+
+.THIS .fontBold span {
+    font-weight: bold;
+}
+
+.THIS #blueFontColour {
+    color: #21A0DF;
+}
+
+.THIS #taskHeading {
+    font-weight: bold;
+    font-size:16px;
+}
+
+.THIS .boldFont {
+    font-weight: bold;
+}
+
+.THIS #openTask span{
+    background-color: #21A0DF;
+    color: white;
+}
+
+.THIS #closedTask span{
+    background-color: #00716A;
+    color: white;
+}
+
+.THIS #overdueTask span{
+    background-color: #A0272B;
+    color: white;
+}
+
+.THIS .cornersPadding span{
+    padding: 5px;
+}
+
+.THIS .titleWidth{
+    width: 55%;
+}
