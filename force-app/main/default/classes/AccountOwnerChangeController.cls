@@ -1,7 +1,7 @@
 /*
 * Name: AccountOwnerChangeController
 * Purpose: Controller class for AccountOwnerChangePage
-* Author: Nagarro Ltd
+* Author: Nagarro Ltd test
 */
 public class AccountOwnerChangeController {
     private ApexPages.StandardController accountRec;
